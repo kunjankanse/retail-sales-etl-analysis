@@ -7,7 +7,7 @@ This project demonstrates an end-to-end ETL pipeline and advanced SQL analytics 
 ## 📊 Overview
 
 - **Dataset**: [Retail Orders from Kaggle](https://www.kaggle.com/datasets/ankitbansal06/retail-orders)
-- **Records**: ~10,000 retail transactions
+- **Records**: ~10,000 retail orders
 - **Tools & Tech Stack**:
   - Python (Pandas, SQLAlchemy, Kaggle API)
   - SQL Server
